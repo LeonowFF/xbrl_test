@@ -1,0 +1,13 @@
+# Временные файлы выгрузки 1С
+**/ConfigDumpInfo.xml
+**/DumpInfo.xml
+
+# Базы данных
+/build/
+*.1CD
+*.1cd
+
+# Логи и временные файлы
+*.log
+*.tmp
+.ovm/
